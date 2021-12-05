@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+  <row>
+    <Bill ID>DWK3389P</Bill ID>
+    <Patient ID>DP001</Patient ID>
+    <Bill Amount>75</Bill Amount>
+    <Transaction ID>9242920YHD</Transaction ID>
+  </row>
+  <row>
+    <Bill ID>DWK2679Y</Bill ID>
+    <Patient ID>DP002</Patient ID>
+    <Bill Amount>200</Bill Amount>
+    <Transaction ID>1827346KDD</Transaction ID>
+  </row>
+  <row>
+    <Bill ID>DWK8729U</Bill ID>
+    <Patient ID>DP003</Patient ID>
+    <Bill Amount>170</Bill Amount>
+    <Transaction ID>7367894VCY</Transaction ID>
+  </row>
+  <row>
+    <Bill ID>DWK0991P</Bill ID>
+    <Patient ID>DP004</Patient ID>
+    <Bill Amount>250</Bill Amount>
+    <Transaction ID>2141718DHC</Transaction ID>
+  </row>
+  <row>
+    <Bill ID>DWK7233T</Bill ID>
+    <Patient ID>DP005</Patient ID>
+    <Bill Amount>100</Bill Amount>
+    <Transaction ID>3690883UEH</Transaction ID>
+  </row>
+  <row>
+    <Bill ID>DWK6778P</Bill ID>
+    <Patient ID>DP006</Patient ID>
+    <Bill Amount>100</Bill Amount>
+    <Transaction ID>3968892YET</Transaction ID>
+  </row>
+  <row>
+    <Bill ID>DWK0029E</Bill ID>
+    <Patient ID>DP007</Patient ID>
+    <Bill Amount>85</Bill Amount>
+    <Transaction ID>1359893HJJ</Transaction ID>
+  </row>
+  <row>
+    <Bill ID>DWK3343E</Bill ID>
+    <Patient ID>DP008</Patient ID>
+    <Bill Amount>300</Bill Amount>
+    <Transaction ID>6672893OOP</Transaction ID>
+  </row>
+  <row>
+    <Bill ID>DWK9986P</Bill ID>
+    <Patient ID>DP009</Patient ID>
+    <Bill Amount>50</Bill Amount>
+    <Transaction ID>1923477GDH</Transaction ID>
+  </row>
+  <row>
+    <Bill ID>DWK3354Y</Bill ID>
+    <Patient ID>DP010</Patient ID>
+    <Bill Amount>180</Bill Amount>
+    <Transaction ID></Transaction ID>
+  </row>
+</root>

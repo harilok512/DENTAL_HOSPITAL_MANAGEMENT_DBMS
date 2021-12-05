@@ -1,0 +1,62 @@
+[
+ {
+   "Bill ID": "DWK3389P",
+   "Patient ID": "DP001",
+   "Bill Amount": 75,
+   "Transaction ID": "9242920YHD"
+ },
+ {
+   "Bill ID": "DWK2679Y",
+   "Patient ID": "DP002",
+   "Bill Amount": 200,
+   "Transaction ID": "1827346KDD"
+ },
+ {
+   "Bill ID": "DWK8729U",
+   "Patient ID": "DP003",
+   "Bill Amount": 170,
+   "Transaction ID": "7367894VCY"
+ },
+ {
+   "Bill ID": "DWK0991P",
+   "Patient ID": "DP004",
+   "Bill Amount": 250,
+   "Transaction ID": "2141718DHC"
+ },
+ {
+   "Bill ID": "DWK7233T",
+   "Patient ID": "DP005",
+   "Bill Amount": 100,
+   "Transaction ID": "3690883UEH"
+ },
+ {
+   "Bill ID": "DWK6778P",
+   "Patient ID": "DP006",
+   "Bill Amount": 100,
+   "Transaction ID": "3968892YET"
+ },
+ {
+   "Bill ID": "DWK0029E",
+   "Patient ID": "DP007",
+   "Bill Amount": 85,
+   "Transaction ID": "1359893HJJ"
+ },
+ {
+   "Bill ID": "DWK3343E",
+   "Patient ID": "DP008",
+   "Bill Amount": 300,
+   "Transaction ID": "6672893OOP"
+ },
+ {
+   "Bill ID": "DWK9986P",
+   "Patient ID": "DP009",
+   "Bill Amount": 50,
+   "Transaction ID": "1923477GDH"
+ },
+ {
+   "Bill ID": "DWK3354Y",
+   "Patient ID": "DP010",
+   "Bill Amount": 180,
+   "Transaction ID": ""
+ }
+]

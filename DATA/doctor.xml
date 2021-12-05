@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+  <row>
+    <Doctor id>DD543</Doctor id>
+    <Doctor name>Prathusha</Doctor name>
+    <Doctor number>543</Doctor number>
+    <Specialization>Dental surgey</Specialization>
+    <patient id>DP003</patient id>
+  </row>
+  <row>
+    <Doctor id>DD098</Doctor id>
+    <Doctor name>Dexter</Doctor name>
+    <Doctor number>98</Doctor number>
+    <Specialization>Clinical dentistry</Specialization>
+    <patient id>DP008</patient id>
+  </row>
+  <row>
+    <Doctor id>DD102</Doctor id>
+    <Doctor name>Micheal</Doctor name>
+    <Doctor number>102</Doctor number>
+    <Specialization>Endodontics</Specialization>
+    <patient id>DP007</patient id>
+  </row>
+</root>

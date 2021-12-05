@@ -1,0 +1,72 @@
+[
+ {
+   "patient id": "DP001",
+   "patient name": "Vikram",
+   "phone number": 9084567643,
+   "age": 30,
+   "address": "New jersey"
+ },
+ {
+   "patient id": "DP002",
+   "patient name": "Stephen",
+   "phone number": 6783251890,
+   "age": 27,
+   "address": "New jersey"
+ },
+ {
+   "patient id": "DP003",
+   "patient name": "Ronald",
+   "phone number": 546439335,
+   "age": 22,
+   "address": "Newark"
+ },
+ {
+   "patient id": "DP004",
+   "patient name": "Suzy",
+   "phone number": 437999217,
+   "age": 32,
+   "address": "New jersey"
+ },
+ {
+   "patient id": "DP005",
+   "patient name": "Thimothy",
+   "phone number": 543232888,
+   "age": 25,
+   "address": "New jersey"
+ },
+ {
+   "patient id": "DP006",
+   "patient name": "Rose",
+   "phone number": 549278460,
+   "age": 24,
+   "address": "Trenton"
+ },
+ {
+   "patient id": "DP007",
+   "patient name": "Francis",
+   "phone number": 589207067,
+   "age": 29,
+   "address": "New jersey"
+ },
+ {
+   "patient id": "DP008",
+   "patient name": "Glory",
+   "phone number": 823486289,
+   "age": 25,
+   "address": "New jersey"
+ },
+ {
+   "patient id": "DP009",
+   "patient name": "Rajesh",
+   "phone number": 105776551,
+   "age": 30,
+   "address": "Jersey city"
+ },
+ {
+   "patient id": "DP010",
+   "patient name": "Heniz",
+   "phone number": 129204473,
+   "age": 24,
+   "address": "New jersey"
+ }
+]

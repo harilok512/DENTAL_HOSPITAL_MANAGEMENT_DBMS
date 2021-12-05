@@ -1,0 +1,23 @@
+[
+ {
+   "Doctor id": "DD543",
+   "Doctor name": "Prathusha",
+   "Doctor number": 543,
+   "Specialization": "Dental surgey",
+   "patient id": "DP003"
+ },
+ {
+   "Doctor id": "DD098",
+   "Doctor name": "Dexter",
+   "Doctor number": 98,
+   "Specialization": "Clinical dentistry",
+   "patient id": "DP008"
+ },
+ {
+   "Doctor id": "DD102",
+   "Doctor name": "Micheal",
+   "Doctor number": 102,
+   "Specialization": "Endodontics",
+   "patient id": "DP007"
+ }
+]
