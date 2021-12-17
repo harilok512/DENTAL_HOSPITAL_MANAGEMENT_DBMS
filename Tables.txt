@@ -1,0 +1,36 @@
+Appointment Information
+101	21/02/2021	DP003	DD543	TS0023	
+102	05/10/2021	DP004	DD098	TS0024	
+104	04/04/2019	DP001	DD102	TS0025	
+
+Bills Information
+DWK0029E	85	TS0109	
+DWK2679Y	200	TS0024	
+DWK3389P	75	TS0023	
+DWK7233T	100	TS0025	
+
+Doctor Information
+DD098	Dexter	68236592	Clinical dentistry	
+DD102	Micheal	23473956	Endodontics	
+DD543	Prathusha	983459832	Dental surgey	
+
+patient Information
+DP001	Vikram	84567643	30	New jersey	
+DP002	Stephen	83251890	27	New jersey	
+DP003	Ronald	546439335	22	Newark	
+DP004	Suzy	437999217	32	New jersey	
+DP005	Rose	549278460	24	Trenton	
+
+Transactions Information
+TS0023	DWK3389P	TT1001	
+TS0024	DWK2679Y	TT1002	
+TS0025	DWK7233T	TT1004	
+TS0109	DWK0029E	TT1005	
+
+Treatment Information
+TT1001	molar removal	
+TT1002	Normal Checkup	
+TT1003	teeth setting	
+TT1004	Cavity fillings	
+TT1005	Gum Disease Treatment	
+
